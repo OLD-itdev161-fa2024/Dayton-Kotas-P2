@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9lr8nGGYLycc3fz4REk3nEKApxMhliqsHI6BEbH5b04=",
+  "Source": "CoinFlipApi",
+  "BasePath": "_content/CoinFlipApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

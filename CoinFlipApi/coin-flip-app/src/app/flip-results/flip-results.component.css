@@ -1,0 +1,16 @@
+.flip-results {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.flip-results ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.flip-results li {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
